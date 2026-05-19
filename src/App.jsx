@@ -251,8 +251,8 @@ function App() {
             >
               V
             </motion.div>
-            <span className="bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-400">
-              VEST.IO <span className="text-emerald-500 text-lg">Pro</span>
+            <span className="bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-400 text-xl">
+              E3M3 <span className="text-emerald-500 text-lg">Coletes de Futebol</span>
             </span>
           </div>
 

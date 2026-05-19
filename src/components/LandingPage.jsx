@@ -111,7 +111,7 @@ const LandingPage = ({ onStartCustomization }) => {
                 <path d="M180 80 Q150 80 150 10" fill="none" stroke="#F97316" strokeWidth="6"/>
                 {/* Detalhe "Pro" no centro */}
                 <text x="100" y="140" fontSize="30" textAnchor="middle" fill="#FFFFFF" fontWeight="900" fontStyle="italic" opacity="0.9">PRO</text>
-                <text x="100" y="160" fontSize="12" textAnchor="middle" fill="#FFFFFF" fontWeight="bold" opacity="0.8">VEST.IO</text>
+                <text x="100" y="160" fontSize="12" textAnchor="middle" fill="#FFFFFF" fontWeight="bold" opacity="0.8">E3M3</text>
               </svg>
             </motion.div>
             
@@ -129,7 +129,7 @@ const LandingPage = ({ onStartCustomization }) => {
       <section className="py-24 bg-gray-900 border-y border-white/5 relative z-10">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-5xl font-black text-white mb-4">Por Que Escolher a VEST.IO?</h2>
+            <h2 className="text-3xl md:text-5xl font-black text-white mb-4">Por Que Escolher a E3M3 Coletes?</h2>
             <p className="text-gray-400 text-lg max-w-2xl mx-auto">Desenvolvido por quem joga, para quem joga. Não abrimos mão de qualidade, agilidade e estilo em cada peça produzida.</p>
           </div>
 
@@ -210,7 +210,7 @@ const LandingPage = ({ onStartCustomization }) => {
       <section className="py-24 bg-gray-800/30 border-y border-white/5 relative z-10">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-5xl font-black text-white mb-4">Quem Veste VEST.IO Pro</h2>
+            <h2 className="text-3xl md:text-5xl font-black text-white mb-4">Quem Veste E3M3 Coletes</h2>
             <p className="text-gray-400 text-lg">A qualidade aprovada pelas melhores arenas e times amadores do Brasil.</p>
           </div>
 
@@ -337,7 +337,7 @@ const LandingPage = ({ onStartCustomization }) => {
           <div className="md:col-span-2">
             <div className="flex items-center gap-2 text-2xl font-black italic tracking-tighter mb-4">
               <div className="w-8 h-8 rounded-full bg-gradient-to-tr from-emerald-500 to-teal-400 flex items-center justify-center text-white">V</div>
-              <span className="text-white">VEST.IO <span className="text-emerald-500 text-lg">Pro</span></span>
+              <span className="text-white">E3M3 <span className="text-emerald-500 text-lg">Coletes de Futebol</span></span>
             </div>
             <p className="text-gray-500 max-w-sm mb-6">A maior plataforma de personalização de coletes para times de várzea, escolinhas e arenas do Brasil.</p>
             <div className="flex gap-4">
@@ -368,7 +368,7 @@ const LandingPage = ({ onStartCustomization }) => {
         </div>
         
         <div className="container mx-auto px-4 pt-8 border-t border-gray-900 text-center text-sm text-gray-600">
-          <p>© 2026 VEST.IO Pro - Indústria de Artigos Esportivos LTDA. Todos os direitos reservados.</p>
+          <p>© 2026 E3M3 Coletes de Futebol. Todos os direitos reservados.</p>
         </div>
       </footer>
     </div>
