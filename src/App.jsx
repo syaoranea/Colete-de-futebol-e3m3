@@ -258,6 +258,7 @@ function App() {
 
           <nav className="hidden md:flex items-center gap-6 font-medium text-sm">
             {[
+              { id: 'home', label: 'Página Inicial' },
               { id: 'simulador', label: 'Simulador' },
               { id: 'carrinho', label: 'Carrinho' },
               { id: 'status', label: 'Acompanhar Pedido' }
@@ -299,6 +300,7 @@ function App() {
         {/* Mobile Nav */}
         <div className="md:hidden flex overflow-x-auto px-4 py-3 gap-4 border-t border-white/5 bg-gray-900/50">
           {[
+            { id: 'home', label: 'Página Inicial' },
             { id: 'simulador', label: 'Simulador' },
             { id: 'carrinho', label: 'Carrinho' },
             { id: 'status', label: 'Acompanhar Pedido' }
